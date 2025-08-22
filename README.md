@@ -9,13 +9,12 @@ A Netflix-inspired web app built with React that includes **authentication, dyna
 - 🎞️ **Movie Cards**: Browse popular, trending, and upcoming movies.  
 - ▶️ **Trailers on Click**: Clicking a card opens the movie trailer.  
 - 📱 **Responsive Design**: Works smoothly on desktop and mobile.  
-- 🌐 **Deployed on**: [Your Deployment Link Here]  
+- 🌐 **Deployed on**:   
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, CSS  
-- **Backend/Database**: Firebase (for Auth + Hosting, if used)  
 - **API**: TMDB API (for movie data & trailers)  
 - **Icons**: React Icons  
 
