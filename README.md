@@ -26,11 +26,13 @@ A Netflix-inspired web app built with React that includes **authentication, dyna
 
 ## 📸 Screenshots  
 
-### 🔑 Login Page
+### 🏠 Homepage
+
 ![Login Screenshot](src/assets/screenshots/homepage1.png)
 ![Login Screenshot](src/assets/screenshots/homepage2.png)
 
-### 🏠 Homepage
+
+### 🔑 Login Page
 ![Homepage Screenshot](src/assets/screenshots/login1.png)
 ![Homepage Screenshot](src/assets/screenshots/login2.png)
 
