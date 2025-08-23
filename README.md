@@ -10,7 +10,7 @@ A Netflix-inspired web app built with React that includes **authentication, dyna
 - ▶️ **Trailers on Click**: Clicking a card opens the movie trailer.  
 - 📱 **Responsive Design**: Works smoothly on desktop and mobile.  
 - 🌐 **Deployed on**: Netlify
-- [Live](https://salonisuthar.netlify.app/)
+- [Live](https://saloni08.netlify.app/)
 
 ---
 
